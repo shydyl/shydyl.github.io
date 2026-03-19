@@ -48,21 +48,19 @@ If you are interested in academic collaboration, please feel free to contact me.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-
-- `ACL 2024` [LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures](), **Chenghao Xu**, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng  
-- `NeurIPS 2025` [Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling](), **Chenghao Xu**, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng  
 - `AAAI 2026` [Editing is a Bargaining Game: Balanced Knowledge Editing in Large Language Models](), **Chenghao Xu**, Jiexi Yan, Muli Yang, Fen Fang, Huilin Chen, Cheng Deng  
-- `ACM MM 2025` [AStF: Motion Style Transfer via Adaptive Statistics Fusor](), Hanmo Chen*, **Chenghao Xu***, Jiexi Yan, Cheng Deng  
 - `AAAI 2026` [Decomposing Prompts, Composing Actions: A Multi-Granularity Prompting Approach for Incremental Action Learning](), Xinyi Cheng, **Chenghao Xu**, Xi Wang, Jiexi Yan, Yanhua Yang  
 - `AAAI 2026` [Channel-masked Asymmetric Distribution Matching for Cross-Domain Generalized Dataset Distillation](), Qi Liu, **Chenghao Xu**, Jiexi Yan, Guangtao Lyu, Erkun Yang, Guihai Chen, Yanhua Yang  
-- `ICLR 2025` [Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization](), Guangtao Lyu, **Chenghao Xu**, Jiexi Yan, Muli Yang, Cheng Deng  
-- `IJCAI 2022` [Attention-guided Contrastive Hashing for Long-tailed Image Retrieval](), Xuan Kou, **Chenghao Xu**, Xu Yang, Cheng Deng  
-
-- `TMM 2023` [Implicit Compositional Generative Network for Length-Variable Co-Speech Gesture Synthesis](), **Chenghao Xu**, Jiexi Yan, Yanhua Yang, Cheng Deng  
-- `TIP 2024` [Rethinking Noise Sampling in Class-Imbalanced Diffusion Models](), **Chenghao Xu**, Jiexi Yan, Muli Yang, Cheng Deng  
 - `TIP 2025` [Keep and Extend: Unified Knowledge Embedding for Few-shot Image Generation](), **Chenghao Xu**, Jiexi Yan, Cheng Deng  
 - `TMM 2025` [Bilevel Direction Preserving for Few-Shot Open-Set Recognition](), Zihui Zhang, **Chenghao Xu**, Jiexi Yan, Cheng Deng  
+- `NeurIPS 2025` [Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling](), **Chenghao Xu**, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng  
+- `ACM MM 2025` [AStF: Motion Style Transfer via Adaptive Statistics Fusor](), Hanmo Chen*, **Chenghao Xu***, Jiexi Yan, Cheng Deng  
+- `ICLR 2025` [Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization](), Guangtao Lyu, **Chenghao Xu**, Jiexi Yan, Muli Yang, Cheng Deng  
+- `ACL 2024` [LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures](), **Chenghao Xu**, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng  
+- `TMM 2023` [Implicit Compositional Generative Network for Length-Variable Co-Speech Gesture Synthesis](), **Chenghao Xu**, Jiexi Yan, Yanhua Yang, Cheng Deng  
+- `TIP 2024` [Rethinking Noise Sampling in Class-Imbalanced Diffusion Models](), **Chenghao Xu**, Jiexi Yan, Muli Yang, Cheng Deng  
 - `TMM 2022` [A Decomposable Causal View of Compositional Zero-Shot Learning](), Muli Yang, **Chenghao Xu**, Aming Wu, Cheng Deng  
+- `IJCAI 2022` [Attention-guided Contrastive Hashing for Long-tailed Image Retrieval](), Xuan Kou, **Chenghao Xu**, Xu Yang, Cheng Deng  
 
 
 # 🎖 Honors and Awards
