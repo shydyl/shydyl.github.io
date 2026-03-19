@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I received my Ph.D. under the supervision of [Cheng Deng](https://ee.xidian.edu.cn/faculty/chdeng/).
+
 I am currently working on motion generation and action understanding, with a focus on advancing intelligent systems that bridge perception and behavior.
 
 I received both my bachelor’s and Ph.D. degrees from the School of Electronic Engineering, Xidian University (西安电子科技大学电子工程学院). I am currently a Lecturer at Hohai University.
@@ -64,8 +66,8 @@ If you are interested in academic collaboration, please feel free to contact me.
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* National Scholarship for Ph.D. Students
+
 
 # 📖 Educations
 - *2026.01 - Present*, Lecturer, Hohai University.
