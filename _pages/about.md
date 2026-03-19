@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently working on motion generation and action understanding, with a focus on advancing intelligent systems that bridge perception and behavior.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received both my bachelor’s and Ph.D. degrees from the School of Electronic Engineering, Xidian University (西安电子科技大学电子工程学院). I am currently a Lecturer at Hohai University.
+
+My research interests lie in motion generation, action understanding, and multimodal learning, aiming to develop models that integrate perception and action for more intelligent and interactive systems.
+
+If you are interested in academic collaboration, please feel free to contact me.
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
@@ -28,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -40,19 +46,38 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+- `ACL 2024` [LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures](), **Chenghao Xu**, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng  
+- `NeurIPS 2025` [Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling](), **Chenghao Xu**, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng  
+- `AAAI 2026` [Editing is a Bargaining Game: Balanced Knowledge Editing in Large Language Models](), **Chenghao Xu**, Jiexi Yan, Muli Yang, Fen Fang, Huilin Chen, Cheng Deng  
+- `ACM MM 2025` [AStF: Motion Style Transfer via Adaptive Statistics Fusor](), Hanmo Chen*, **Chenghao Xu***, Jiexi Yan, Cheng Deng  
+- `AAAI 2026` [Decomposing Prompts, Composing Actions: A Multi-Granularity Prompting Approach for Incremental Action Learning](), Xinyi Cheng, **Chenghao Xu**, Xi Wang, Jiexi Yan, Yanhua Yang  
+- `AAAI 2026` [Channel-masked Asymmetric Distribution Matching for Cross-Domain Generalized Dataset Distillation](), Qi Liu, **Chenghao Xu**, Jiexi Yan, Guangtao Lyu, Erkun Yang, Guihai Chen, Yanhua Yang  
+- `ICLR 2025` [Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization](), Guangtao Lyu, **Chenghao Xu**, Jiexi Yan, Muli Yang, Cheng Deng  
+- `IJCAI 2022` [Attention-guided Contrastive Hashing for Long-tailed Image Retrieval](), Xuan Kou, **Chenghao Xu**, Xu Yang, Cheng Deng  
+
+- `TMM 2023` [Implicit Compositional Generative Network for Length-Variable Co-Speech Gesture Synthesis](), **Chenghao Xu**, Jiexi Yan, Yanhua Yang, Cheng Deng  
+- `TIP 2024` [Rethinking Noise Sampling in Class-Imbalanced Diffusion Models](), **Chenghao Xu**, Jiexi Yan, Muli Yang, Cheng Deng  
+- `TIP 2025` [Keep and Extend: Unified Knowledge Embedding for Few-shot Image Generation](), **Chenghao Xu**, Jiexi Yan, Cheng Deng  
+- `TMM 2025` [Bilevel Direction Preserving for Few-Shot Open-Set Recognition](), Zihui Zhang, **Chenghao Xu**, Jiexi Yan, Cheng Deng  
+- `TMM 2022` [A Decomposable Causal View of Compositional Zero-Shot Learning](), Muli Yang, **Chenghao Xu**, Aming Wu, Cheng Deng  
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01 - Present*, Lecturer, Hohai University.
+- *2020.09 - 2025.06*, Ph.D., School of Electronic Engineering, Xidian University.
+- *2016.09 - 2020.06*, Undergraduate, School of Electronic Engineering, Xidian University.
 
-# 💬 Invited Talks
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
