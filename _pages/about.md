@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. under the supervision of [Cheng Deng](https://ee.xidian.edu.cn/faculty/chdeng/).
+I am a Lecturer at Hohai University, specializing in computer vision and embodied intelligence. I earned both my Bachelor's and Ph.D. degrees from the School of Electronic Engineering, Xidian University, under the guidance of Prof. [Cheng Deng](https://ee.xidian.edu.cn/faculty/chdeng/).
 
-I am currently working on motion generation and action understanding, with a focus on advancing intelligent systems that bridge perception and behavior.
-
-I received both my bachelor’s and Ph.D. degrees from the School of Electronic Engineering, Xidian University (西安电子科技大学电子工程学院). I am currently a Lecturer at Hohai University.
-
-My research interests lie in motion generation, action understanding, and multimodal learning, aiming to develop models that integrate perception and action for more intelligent and interactive systems.
+My research lies at the intersection of Motion Generation, Embodied AI, and Large Language Model. I aim to develop principled models that integrate perception, reasoning, and action—toward intelligent systems capable of understanding and interacting with the physical world in a human-aligned manner.
 
 If you are interested in academic collaboration, please feel free to contact me.
 
@@ -31,7 +27,7 @@ If you are interested in academic collaboration, please feel free to contact me.
 
 
 # 🔥 News
-- *2025.12*: 🎉 I join the School of Computer and Information, Hohai University as a Lecturer!
+- *2025.12*: 🎉 I join the College of Information Science and Engineering, Hohai University as a Lecturer!
 
 
 # 📝 Publications 
@@ -53,14 +49,14 @@ If you are interested in academic collaboration, please feel free to contact me.
 - `AAAI 2026` [Editing is a Bargaining Game: Balanced Knowledge Editing in Large Language Models](), **Chenghao Xu**, Jiexi Yan, Muli Yang, Fen Fang, Huilin Chen, Cheng Deng  
 - `AAAI 2026` [Decomposing Prompts, Composing Actions: A Multi-Granularity Prompting Approach for Incremental Action Learning](), Xinyi Cheng, **Chenghao Xu**, Xi Wang, Jiexi Yan, Yanhua Yang  
 - `AAAI 2026` [Channel-masked Asymmetric Distribution Matching for Cross-Domain Generalized Dataset Distillation](), Qi Liu, **Chenghao Xu**, Jiexi Yan, Guangtao Lyu, Erkun Yang, Guihai Chen, Yanhua Yang  
+- `NeurIPS 2025` [Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling](), **Chenghao Xu**, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng  
+- `ACM MM 2025` [AStF: Motion Style Transfer via Adaptive Statistics Fusor](), Hanmo Chen*, **Chenghao Xu***, Jiexi Yan, Cheng Deng
 - `TIP 2025` [Keep and Extend: Unified Knowledge Embedding for Few-shot Image Generation](), **Chenghao Xu**, Jiexi Yan, Cheng Deng  
 - `TMM 2025` [Bilevel Direction Preserving for Few-Shot Open-Set Recognition](), Zihui Zhang, **Chenghao Xu**, Jiexi Yan, Cheng Deng  
-- `NeurIPS 2025` [Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling](), **Chenghao Xu**, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng  
-- `ACM MM 2025` [AStF: Motion Style Transfer via Adaptive Statistics Fusor](), Hanmo Chen*, **Chenghao Xu***, Jiexi Yan, Cheng Deng  
 - `ICLR 2025` [Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization](), Guangtao Lyu, **Chenghao Xu**, Jiexi Yan, Muli Yang, Cheng Deng  
 - `ACL 2024` [LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures](), **Chenghao Xu**, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng  
+- `TIP 2024` [Rethinking Noise Sampling in Class-Imbalanced Diffusion Models](), **Chenghao Xu**, Jiexi Yan, Muli Yang, Cheng Deng
 - `TMM 2023` [Implicit Compositional Generative Network for Length-Variable Co-Speech Gesture Synthesis](), **Chenghao Xu**, Jiexi Yan, Yanhua Yang, Cheng Deng  
-- `TIP 2024` [Rethinking Noise Sampling in Class-Imbalanced Diffusion Models](), **Chenghao Xu**, Jiexi Yan, Muli Yang, Cheng Deng  
 - `TMM 2022` [A Decomposable Causal View of Compositional Zero-Shot Learning](), Muli Yang, **Chenghao Xu**, Aming Wu, Cheng Deng  
 - `IJCAI 2022` [Attention-guided Contrastive Hashing for Long-tailed Image Retrieval](), Xuan Kou, **Chenghao Xu**, Xu Yang, Cheng Deng  
 
@@ -71,7 +67,7 @@ If you are interested in academic collaboration, please feel free to contact me.
 
 # 📖 Educations
 - *2026.01 - Present*, Lecturer, Hohai University.
-- *2020.09 - 2025.06*, Ph.D., School of Electronic Engineering, Xidian University.
+- *2020.09 - 2025.12*, Ph.D., School of Electronic Engineering, Xidian University.
 - *2016.09 - 2020.06*, Undergraduate, School of Electronic Engineering, Xidian University.
 
 
