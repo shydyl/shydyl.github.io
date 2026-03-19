@@ -29,8 +29,10 @@ If you are interested in academic collaboration, please feel free to contact me.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: 🎉 I join the School of Computer and Information, Hohai University as a Lecturer!
+<!-- - *2025.09*: 🎉 One paper is accepted by NeurIPS 2025
+- *2025.05*: 🎉 One paper is accepted by ICLR 2025
+- *2025.02*: 🎉 Three papers are accepted by AAAI 2026 -->
 
 # 📝 Publications 
 
